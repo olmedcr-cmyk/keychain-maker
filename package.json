@@ -32,7 +32,7 @@
     "@types/three": "^0.187.0",
     "happy-dom": "^21.0.4",
     "typescript": "^7.0.2",
-    "vite": "^8.3.7",
+    "vite": "^8.3.8",
     "vitest": "^5.1.1",
     "wrangler": "^4.158.0"
   },
