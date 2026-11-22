@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="Llavero en despiece isométrico: la base de 3 mm con la anilla de 9 mm y su agujero de 5 mm, y encima, separado, el relieve de 1,2 mm que se imprime en otro color">
+<style>
+.face{fill:#000000;stroke:#474747;stroke-width:.9;stroke-linejoin:round}
+.face.flat{stroke:none} .face.top.accent{fill:#1E1E1D}
+.sil{fill:none;stroke-width:1.15;stroke-linejoin:round;stroke-linecap:round}
+.sil.edge{stroke:#C6C5C0} .sil.hi{stroke:#F2F2F2;stroke-width:1.6}
+.face.hi-fill{fill:#F2F2F2;stroke:#F2F2F2}
+.line{fill:none;stroke:#474747;stroke-width:.9;stroke-linejoin:round}
+.line.edge{stroke:#C6C5C0}
+.wire{fill:none;stroke:#C6C5C0;stroke-width:1.2;stroke-linejoin:round;stroke-linecap:round}
+.wire.hi{stroke:#F2F2F2;stroke-width:1.6}
+.ghost{fill:none;stroke:#474747;stroke-width:.9;stroke-dasharray:3 4}
+.leader{fill:none;stroke:#474747;stroke-width:1}
+.dot{fill:#F2F2F2}
+.label{font:15px 'Roboto Mono', ui-monospace, Menlo, Consolas, monospace;fill:#C6C5C0;letter-spacing:.2px}
+.label .idx{fill:#F2F2F2}
+.sub{font:13px 'Roboto Mono', ui-monospace, Menlo, Consolas, monospace;fill:#C6C5C0;opacity:.8}
+.title{font:15px 'Roboto Mono', ui-monospace, Menlo, Consolas, monospace;fill:#C6C5C0;letter-spacing:.6px}
+.head{font:26px 'Bricolage Grotesque', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#F2F2F2;letter-spacing:-.4px}
+.chip{font-family:'Roboto Mono', ui-monospace, Menlo, Consolas, monospace;fill:#C6C5C0}
+.rule{stroke:#474747;stroke-width:1}
+.arrow{fill:none;stroke:#F2F2F2;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round}
+</style>
+<rect width="1200" height="760" fill="#000000"/>
+<text class="title" x="40.00" y="52.00" text-anchor="start">OBJ-02 | ANATOMÍA DE UN LLAVERO</text>
+<line class="rule" x1="40" y1="72" x2="1160" y2="72"/>
+<polygon class="face side flat " points="410.35,373.46 407.15,373.58 407.15,349.58 410.35,349.46"/>
+<polygon class="face side flat " points="413.55,373.58 410.35,373.46 410.35,349.46 413.55,349.58"/>
+<polygon class="face side flat " points="407.15,373.58 404.01,373.94 404.01,349.94 407.15,349.58"/>
+<polygon class="face side flat " points="416.69,373.94 413.55,373.58 413.55,349.58 416.69,349.94"/>
+<polygon class="face side flat " points="404.01,373.94 400.98,374.53 400.98,350.53 404.01,349.94"/>
+<polygon class="face side flat " points="419.72,374.53 416.69,373.94 416.69,349.94 419.72,350.53"/>
+<polygon class="face side flat " points="400.98,374.53 398.10,375.35 398.10,351.35 400.98,350.53"/>
+<polygon class="face side flat " points="422.60,375.35 419.72,374.53 419.72,350.53 422.60,351.35"/>
+<polygon class="face side flat " points="398.10,375.35 395.44,376.38 395.44,352.38 398.10,351.35"/>
+<polygon class="face side flat " points="425.26,376.38 422.60,375.35 422.60,351.35 425.26,352.38"/>
+<polygon class="face side flat " points="427.67,377.60 425.26,376.38 425.26,352.38 427.67,353.60"/>
+<polygon class="face side flat " points="395.44,376.38 393.03,377.60 393.03,353.60 395.44,352.38"/>
+<polygon class="face side flat " points="429.78,378.99 427.67,377.60 427.67,353.60 429.78,354.99"/>
+<polygon class="face side flat " points="393.03,377.60 390.92,378.99 390.92,354.99 393.03,353.60"/>
+<polygon class="face side flat " points="431.56,380.53 429.78,378.99 429.78,354.99 431.56,356.53"/>
+<polygon class="face side flat " points="390.92,378.99 389.14,380.53 389.14,356.53 390.92,354.99"/>
+<polygon class="face side flat " points="432.98,382.19 431.56,380.53 431.56,356.53 432.98,358.19"/>
+<polygon class="face side flat " points="389.14,380.53 387.72,382.19 387.72,358.19 389.14,356.53"/>
+<polygon class="face side flat " points="387.72,382.19 386.69,383.94 386.69,359.94 387.72,358.19"/>
+<polygon class="face side flat " points="434.01,383.94 432.98,382.19 432.98,358.19 434.01,359.94"/>
+<polygon class="face side flat " points="386.69,383.94 386.07,385.75 386.07,361.75 386.69,359.94"/>
+<polygon class="face side flat " points="434.64,385.75 434.01,383.94 434.01,359.94 434.64,361.75"/>
+<polygon class="face side flat " points="434.85,387.60 434.64,385.75 434.64,361.75 434.85,363.60"/>
+<polygon class="face side flat " points="386.07,385.75 385.86,387.60 385.86,363.60 386.07,361.75"/>
+<polygon class="face side flat " points="367.76,394.19 366.43,389.82 366.43,365.82 367.76,370.19"/>
+<polyline class="sil edge" points="367.76,394.19 366.43,389.82"/>
+<polygon class="face side flat " points="370.39,398.36 367.76,394.19 367.76,370.19 370.39,374.36"/>
+<polyline class="sil edge" points="370.39,398.36 367.76,394.19"/>
+<polygon class="face side flat " points="374.23,402.20 370.39,398.36 370.39,374.36 374.23,378.20"/>
+<polyline class="sil edge" points="374.23,402.20 370.39,398.36"/>
+<polygon class="face side flat " points="379.17,405.60 374.23,402.20 374.23,378.20 379.17,381.60"/>
+<polyline class="sil edge" points="379.17,405.60 374.23,402.20"/>
+<polygon class="face side flat " points="410.35,416.40 379.17,405.60 379.17,381.60 410.35,392.40"/>
+<polyline class="sil edge" points="410.35,416.40 379.17,405.60"/>
+<polygon class="face side flat " points="341.33,484.25 338.99,474.00 338.99,450.00 341.33,460.25"/>
+<polyline class="sil edge" points="341.33,484.25 338.99,474.00"/>
+<polygon class="face side flat " points="348.18,493.80 341.33,484.25 341.33,460.25 348.18,469.80"/>
+<polyline class="sil edge" points="348.18,493.80 341.33,484.25"/>
+<polygon class="face side flat " points="359.08,502.00 348.18,493.80 348.18,469.80 359.08,478.00"/>
+<polyline class="sil edge" points="359.08,502.00 348.18,493.80"/>
+<polygon class="face side flat " points="947.28,570.00 944.95,580.25 944.95,556.25 947.28,546.00"/>
+<polyline class="sil edge" points="947.28,570.00 944.95,580.25"/>
+<polygon class="face side flat " points="944.95,580.25 938.09,589.80 938.09,565.80 944.95,556.25"/>
+<polyline class="sil edge" points="944.95,580.25 938.09,589.80"/>
+<polygon class="face side flat " points="938.09,589.80 927.19,598.00 927.19,574.00 938.09,565.80"/>
+<polyline class="sil edge" points="938.09,589.80 927.19,598.00"/>
+<polygon class="face side flat " points="677.78,686.00 359.08,502.00 359.08,478.00 677.78,662.00"/>
+<polyline class="sil edge" points="677.78,686.00 359.08,502.00"/>
+<polygon class="face side flat " points="927.19,598.00 774.77,686.00 774.77,662.00 927.19,574.00"/>
+<polyline class="sil edge" points="927.19,598.00 774.77,686.00"/>
+<polygon class="face side flat " points="691.98,692.29 677.78,686.00 677.78,662.00 691.98,668.29"/>
+<polyline class="sil edge" points="691.98,692.29 677.78,686.00"/>
+<polygon class="face side flat " points="774.77,686.00 760.57,692.29 760.57,668.29 774.77,662.00"/>
+<polyline class="sil edge" points="774.77,686.00 760.57,692.29"/>
+<polygon class="face side flat " points="760.57,692.29 744.03,696.25 744.03,672.25 760.57,668.29"/>
+<polyline class="sil edge" points="760.57,692.29 744.03,696.25"/>
+<polygon class="face side flat " points="708.53,696.25 691.98,692.29 691.98,668.29 708.53,672.25"/>
+<polyline class="sil edge" points="708.53,696.25 691.98,692.29"/>
+<polygon class="face side flat " points="726.28,697.60 708.53,696.25 708.53,672.25 726.28,673.60"/>
+<polyline class="sil edge" points="726.28,697.60 708.53,696.25"/>
+<polygon class="face side flat " points="744.03,696.25 726.28,697.60 726.28,673.60 744.03,672.25"/>
+<polyline class="sil edge" points="744.03,696.25 726.28,697.60"/>
+<path class="face top " fill-rule="evenodd" d="M927.19,518.00 L938.09,526.20 L944.95,535.75 L947.28,546.00 L944.95,556.25 L938.09,565.80 L927.19,574.00 L774.77,662.00 L760.57,668.29 L744.03,672.25 L726.28,673.60 L708.53,672.25 L691.98,668.29 L677.78,662.00 L359.08,478.00 L348.18,469.80 L341.33,460.25 L338.99,450.00 L341.33,439.75 L348.18,430.20 L359.08,422.00 L410.35,392.40 L379.17,381.60 L374.23,378.20 L370.39,374.36 L367.76,370.19 L366.43,365.82 L366.43,361.38 L367.76,357.01 L370.39,352.84 L374.23,349.00 L379.17,345.60 L385.06,342.75 L391.72,340.53 L398.94,339.01 L406.51,338.24 L414.19,338.24 L421.76,339.01 L428.98,340.53 L435.64,342.75 L441.53,345.60 L460.23,363.60 L511.50,334.00 L525.71,327.71 L542.25,323.75 L560.00,322.40 L577.75,323.75 L594.29,327.71 L608.50,334.00Z M429.78,372.21 L431.56,370.67 L432.98,369.01 L434.01,367.26 L434.64,365.45 L434.85,363.60 L434.64,361.75 L434.01,359.94 L432.98,358.19 L431.56,356.53 L429.78,354.99 L427.67,353.60 L425.26,352.38 L422.60,351.35 L419.72,350.53 L416.69,349.94 L413.55,349.58 L410.35,349.46 L407.15,349.58 L404.01,349.94 L400.98,350.53 L398.10,351.35 L395.44,352.38 L393.03,353.60 L390.92,354.99 L389.14,356.53 L387.72,358.19 L386.69,359.94 L386.07,361.75 L385.86,363.60 L386.07,365.45 L386.69,367.26 L387.72,369.01 L389.14,370.67 L390.92,372.21 L393.03,373.60 L395.44,374.82 L398.10,375.85 L400.98,376.67 L404.01,377.26 L407.15,377.62 L410.35,377.74 L413.55,377.62 L416.69,377.26 L419.72,376.67 L422.60,375.85 L425.26,374.82 L427.67,373.60Z"/>
+<path class="sil edge" d="M927.19,518.00 L938.09,526.20 L944.95,535.75 L947.28,546.00 L944.95,556.25 L938.09,565.80 L927.19,574.00 L774.77,662.00 L760.57,668.29 L744.03,672.25 L726.28,673.60 L708.53,672.25 L691.98,668.29 L677.78,662.00 L359.08,478.00 L348.18,469.80 L341.33,460.25 L338.99,450.00 L341.33,439.75 L348.18,430.20 L359.08,422.00 L410.35,392.40 L379.17,381.60 L374.23,378.20 L370.39,374.36 L367.76,370.19 L366.43,365.82 L366.43,361.38 L367.76,357.01 L370.39,352.84 L374.23,349.00 L379.17,345.60 L385.06,342.75 L391.72,340.53 L398.94,339.01 L406.51,338.24 L414.19,338.24 L421.76,339.01 L428.98,340.53 L435.64,342.75 L441.53,345.60 L460.23,363.60 L511.50,334.00 L525.71,327.71 L542.25,323.75 L560.00,322.40 L577.75,323.75 L594.29,327.71 L608.50,334.00Z M429.78,372.21 L431.56,370.67 L432.98,369.01 L434.01,367.26 L434.64,365.45 L434.85,363.60 L434.64,361.75 L434.01,359.94 L432.98,358.19 L431.56,356.53 L429.78,354.99 L427.67,353.60 L425.26,352.38 L422.60,351.35 L419.72,350.53 L416.69,349.94 L413.55,349.58 L410.35,349.46 L407.15,349.58 L404.01,349.94 L400.98,350.53 L398.10,351.35 L395.44,352.38 L393.03,353.60 L390.92,354.99 L389.14,356.53 L387.72,358.19 L386.69,359.94 L386.07,361.75 L385.86,363.60 L386.07,365.45 L386.69,367.26 L387.72,369.01 L389.14,370.67 L390.92,372.21 L393.03,373.60 L395.44,374.82 L398.10,375.85 L400.98,376.67 L404.01,377.26 L407.15,377.62 L410.35,377.74 L413.55,377.62 L416.69,377.26 L419.72,376.67 L422.60,375.85 L425.26,374.82 L427.67,373.60Z"/>
+<polygon class="ghost" points="753.99,450.00 715.06,500.69 779.22,541.95 683.68,536.24 635.54,584.22 615.43,530.00 521.51,518.39 604.61,490.59 594.72,435.44 666.19,472.48"/>
+<polyline class="ghost" points="753.99,450.00 753.99,322.00"/>
+<polyline class="ghost" points="635.54,584.22 635.54,456.22"/>
+<polyline class="ghost" points="521.51,518.39 521.51,390.39"/>
+<polyline class="ghost" points="779.22,541.95 779.22,413.95"/>
+<polyline class="ghost" points="594.72,435.44 594.72,307.44"/>
+<polygon class="face side flat accent" points="604.61,362.59 594.72,307.44 594.72,297.84 604.61,352.99"/>
+<polyline class="sil hi" points="604.61,362.59 594.72,307.44"/>
+<polygon class="face side flat accent" points="753.99,322.00 715.06,372.69 715.06,363.09 753.99,312.40"/>
+<polyline class="sil hi" points="753.99,322.00 715.06,372.69"/>
+<polygon class="face side flat accent" points="615.43,402.00 521.51,390.39 521.51,380.79 615.43,392.40"/>
+<polyline class="sil hi" points="615.43,402.00 521.51,390.39"/>
+<polygon class="face side flat accent" points="779.22,413.95 683.68,408.24 683.68,398.64 779.22,404.35"/>
+<polyline class="sil hi" points="779.22,413.95 683.68,408.24"/>
+<polygon class="face side flat accent" points="635.54,456.22 615.43,402.00 615.43,392.40 635.54,446.62"/>
+<polyline class="sil hi" points="635.54,456.22 615.43,402.00"/>
+<polygon class="face side flat accent" points="683.68,408.24 635.54,456.22 635.54,446.62 683.68,398.64"/>
+<polyline class="sil hi" points="683.68,408.24 635.54,456.22"/>
+<path class="face top accent" fill-rule="evenodd" d="M753.99,312.40 L715.06,363.09 L779.22,404.35 L683.68,398.64 L635.54,446.62 L615.43,392.40 L521.51,380.79 L604.61,352.99 L594.72,297.84 L666.19,334.88Z"/>
+<path class="sil hi" d="M753.99,312.40 L715.06,363.09 L779.22,404.35 L683.68,398.64 L635.54,446.62 L615.43,392.40 L521.51,380.79 L604.61,352.99 L594.72,297.84 L666.19,334.88Z"/>
+<circle class="dot" cx="518.43" cy="594.00" r="2.6"/>
+<line class="leader" x1="518.43" y1="594.00" x2="518.43" y2="712.00"/>
+<line class="leader" x1="514.43" y1="712.00" x2="522.43" y2="712.00"/>
+<text class="label" x="528.43" y="704.00" text-anchor="start"><tspan class="idx">01</tspan>  Base</text>
+<text class="sub" x="528.43" y="724.00" text-anchor="start">3 mm, color 1 · silueta, rectángulo o círculo</text>
+<circle class="dot" cx="753.99" cy="312.40" r="2.6"/>
+<line class="leader" x1="753.99" y1="312.40" x2="753.99" y2="120.00"/>
+<line class="leader" x1="749.99" y1="120.00" x2="757.99" y2="120.00"/>
+<text class="label" x="763.99" y="136.00" text-anchor="start"><tspan class="idx">02</tspan>  Relieve</text>
+<text class="sub" x="763.99" y="156.00" text-anchor="start">1,2 mm, color 2</text>
+<circle class="dot" cx="379.17" cy="345.60" r="2.6"/>
+<line class="leader" x1="379.17" y1="345.60" x2="379.17" y2="210.00"/>
+<line class="leader" x1="375.17" y1="210.00" x2="383.17" y2="210.00"/>
+<text class="label" x="369.17" y="226.00" text-anchor="end"><tspan class="idx">03</tspan>  Arandela</text>
+<text class="sub" x="369.17" y="246.00" text-anchor="end">Ø 9 mm, agujero de 5 mm</text>
+<circle class="dot" cx="934.12" cy="538.00" r="2.6"/>
+<line class="leader" x1="934.12" y1="538.00" x2="934.12" y2="250.00"/>
+<line class="leader" x1="930.12" y1="250.00" x2="938.12" y2="250.00"/>
+<text class="label" x="944.12" y="266.00" text-anchor="start"><tspan class="idx">04</tspan>  Borde</text>
+<text class="sub" x="944.12" y="286.00" text-anchor="start">3 mm alrededor del diseño</text>
+</svg>

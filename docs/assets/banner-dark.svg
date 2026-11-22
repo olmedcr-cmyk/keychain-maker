@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Keychain Maker · Divina Machina by Qs Ventures">
+<style>
+.face{fill:#000000;stroke:#474747;stroke-width:.9;stroke-linejoin:round}
+.face.flat{stroke:none} .face.top.accent{fill:#1E1E1D}
+.sil{fill:none;stroke-width:1.15;stroke-linejoin:round;stroke-linecap:round}
+.sil.edge{stroke:#C6C5C0} .sil.hi{stroke:#F2F2F2;stroke-width:1.6}
+.face.hi-fill{fill:#F2F2F2;stroke:#F2F2F2}
+.line{fill:none;stroke:#474747;stroke-width:.9;stroke-linejoin:round}
+.line.edge{stroke:#C6C5C0}
+.wire{fill:none;stroke:#C6C5C0;stroke-width:1.2;stroke-linejoin:round;stroke-linecap:round}
+.wire.hi{stroke:#F2F2F2;stroke-width:1.6}
+.ghost{fill:none;stroke:#474747;stroke-width:.9;stroke-dasharray:3 4}
+.leader{fill:none;stroke:#474747;stroke-width:1}
+.dot{fill:#F2F2F2}
+.label{font:15px 'Roboto Mono', ui-monospace, Menlo, Consolas, monospace;fill:#C6C5C0;letter-spacing:.2px}
+.label .idx{fill:#F2F2F2}
+.sub{font:13px 'Roboto Mono', ui-monospace, Menlo, Consolas, monospace;fill:#C6C5C0;opacity:.8}
+.title{font:15px 'Roboto Mono', ui-monospace, Menlo, Consolas, monospace;fill:#C6C5C0;letter-spacing:.6px}
+.head{font:26px 'Bricolage Grotesque', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#F2F2F2;letter-spacing:-.4px}
+.chip{font-family:'Roboto Mono', ui-monospace, Menlo, Consolas, monospace;fill:#C6C5C0}
+.rule{stroke:#474747;stroke-width:1}
+.arrow{fill:none;stroke:#F2F2F2;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round}
+
+.big{font:56px 'Bricolage Grotesque', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#F2F2F2;letter-spacing:-1.6px}
+.lede{font:22px 'Bricolage Grotesque', 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#C6C5C0}
+.meta{font:13px 'Roboto Mono', ui-monospace, Menlo, Consolas, monospace;fill:#C6C5C0;letter-spacing:.5px}
+</style>
+<rect width="1280" height="400" fill="#000000"/>
+<line class="rule" x1="40" y1="0" x2="40" y2="80"/>
+<line class="rule" x1="40" y1="320" x2="40" y2="400"/>
+<line class="rule" x1="280" y1="0" x2="280" y2="80"/>
+<line class="rule" x1="280" y1="320" x2="280" y2="400"/>
+<line class="rule" x1="520" y1="0" x2="520" y2="80"/>
+<line class="rule" x1="520" y1="320" x2="520" y2="400"/>
+<line class="rule" x1="760" y1="0" x2="760" y2="80"/>
+<line class="rule" x1="760" y1="320" x2="760" y2="400"/>
+<line class="rule" x1="1000" y1="0" x2="1000" y2="80"/>
+<line class="rule" x1="1000" y1="320" x2="1000" y2="400"/>
+<line class="rule" x1="1240" y1="0" x2="1240" y2="80"/>
+<line class="rule" x1="1240" y1="320" x2="1240" y2="400"/>
+<line class="rule" x1="0" y1="80" x2="1280" y2="80"/>
+<line class="rule" x1="0" y1="320" x2="1280" y2="320"/>
+<text class="meta" x="52.00" y="52.00" text-anchor="start">OBJ-01 | KEYCHAIN MAKER</text>
+<text class="meta" x="772.00" y="52.00" text-anchor="start">SVG · TEXTO · STL · CLOUDFLARE</text>
+<text class="meta" x="52.00" y="356.00" text-anchor="start">01 DISEÑO</text>
+<text class="meta" x="292.00" y="356.00" text-anchor="start">02 BASE</text>
+<text class="meta" x="532.00" y="356.00" text-anchor="start">03 ARANDELA</text>
+<text class="meta" x="772.00" y="356.00" text-anchor="start">04 STL</text>
+<text class="meta" x="1012.00" y="356.00" text-anchor="start">DIVINA MACHINA BY QS VENTURES</text>
+<text class="big" x="52.00" y="196.00" text-anchor="start">Keychain Maker</text>
+<text class="lede" x="52.00" y="252.00" text-anchor="start">Un SVG o una palabra entra; sale un llavero listo para imprimir.</text>
+<polygon class="face side flat " points="1061.12,179.97 1059.76,180.02 1059.76,169.82 1061.12,169.77"/>
+<polygon class="face side flat " points="1062.48,180.02 1061.12,179.97 1061.12,169.77 1062.48,169.82"/>
+<polygon class="face side flat " points="1059.76,180.02 1058.43,180.17 1058.43,169.97 1059.76,169.82"/>
+<polygon class="face side flat " points="1063.82,180.17 1062.48,180.02 1062.48,169.82 1063.82,169.97"/>
+<polygon class="face side flat " points="1058.43,180.17 1057.14,180.43 1057.14,170.23 1058.43,169.97"/>
+<polygon class="face side flat " points="1065.11,180.43 1063.82,180.17 1063.82,169.97 1065.11,170.23"/>
+<polygon class="face side flat " points="1057.14,180.43 1055.92,180.77 1055.92,170.57 1057.14,170.23"/>
+<polygon class="face side flat " points="1066.33,180.77 1065.11,180.43 1065.11,170.23 1066.33,170.57"/>
+<polygon class="face side flat " points="1055.92,180.77 1054.78,181.21 1054.78,171.01 1055.92,170.57"/>
+<polygon class="face side flat " points="1067.46,181.21 1066.33,180.77 1066.33,170.57 1067.46,171.01"/>
+<polygon class="face side flat " points="1068.48,181.73 1067.46,181.21 1067.46,171.01 1068.48,171.53"/>
+<polygon class="face side flat " points="1054.78,181.21 1053.76,181.73 1053.76,171.53 1054.78,171.01"/>
+<polygon class="face side flat " points="1069.38,182.32 1068.48,181.73 1068.48,171.53 1069.38,172.12"/>
+<polygon class="face side flat " points="1053.76,181.73 1052.86,182.32 1052.86,172.12 1053.76,171.53"/>
+<polygon class="face side flat " points="1070.14,182.97 1069.38,182.32 1069.38,172.12 1070.14,172.77"/>
+<polygon class="face side flat " points="1052.86,182.32 1052.11,182.97 1052.11,172.77 1052.86,172.12"/>
+<polygon class="face side flat " points="1070.74,183.68 1070.14,182.97 1070.14,172.77 1070.74,173.48"/>
+<polygon class="face side flat " points="1052.11,182.97 1051.50,183.68 1051.50,173.48 1052.11,172.77"/>
+<polygon class="face side flat " points="1051.50,183.68 1051.07,184.42 1051.07,174.22 1051.50,173.48"/>
+<polygon class="face side flat " points="1071.18,184.42 1070.74,183.68 1070.74,173.48 1071.18,174.22"/>
+<polygon class="face side flat " points="1051.07,184.42 1050.80,185.20 1050.80,175.00 1051.07,174.22"/>
+<polygon class="face side flat " points="1071.44,185.20 1071.18,184.42 1071.18,174.22 1071.44,175.00"/>
+<polygon class="face side flat " points="1071.53,185.98 1071.44,185.20 1071.44,175.00 1071.53,175.78"/>
+<polygon class="face side flat " points="1050.80,185.20 1050.71,185.98 1050.71,175.78 1050.80,175.00"/>
+<polygon class="face side flat " points="1043.02,188.78 1042.45,186.92 1042.45,176.72 1043.02,178.58"/>
+<polyline class="sil edge" points="1043.02,188.78 1042.45,186.92"/>
+<polygon class="face side flat " points="1044.14,190.55 1043.02,188.78 1043.02,178.58 1044.14,180.35"/>
+<polyline class="sil edge" points="1044.14,190.55 1043.02,188.78"/>
+<polygon class="face side flat " points="1045.77,192.19 1044.14,190.55 1044.14,180.35 1045.77,181.99"/>
+<polyline class="sil edge" points="1045.77,192.19 1044.14,190.55"/>
+<polygon class="face side flat " points="1047.87,193.63 1045.77,192.19 1045.77,181.99 1047.87,183.43"/>
+<polyline class="sil edge" points="1047.87,193.63 1045.77,192.19"/>
+<polygon class="face side flat " points="1061.12,198.22 1047.87,193.63 1047.87,183.43 1061.12,188.02"/>
+<polyline class="sil edge" points="1061.12,198.22 1047.87,193.63"/>
+<polygon class="face side flat " points="1042.78,217.31 1042.07,214.20 1042.07,204.00 1042.78,207.11"/>
+<polyline class="sil edge" points="1042.78,217.31 1042.07,214.20"/>
+<polygon class="face side flat " points="1044.86,220.21 1042.78,217.31 1042.78,207.11 1044.86,210.01"/>
+<polyline class="sil edge" points="1044.86,220.21 1042.78,217.31"/>
+<polygon class="face side flat " points="1048.17,222.70 1044.86,220.21 1044.86,210.01 1048.17,212.50"/>
+<polyline class="sil edge" points="1048.17,222.70 1044.86,220.21"/>
+<polygon class="face side flat " points="1230.93,244.80 1230.22,247.91 1230.22,237.71 1230.93,234.60"/>
+<polyline class="sil edge" points="1230.93,244.80 1230.22,247.91"/>
+<polygon class="face side flat " points="1230.22,247.91 1228.14,250.81 1228.14,240.61 1230.22,237.71"/>
+<polyline class="sil edge" points="1230.22,247.91 1228.14,250.81"/>
+<polygon class="face side flat " points="1148.28,280.50 1048.17,222.70 1048.17,212.50 1148.28,270.30"/>
+<polyline class="sil edge" points="1148.28,280.50 1048.17,222.70"/>
+<polygon class="face side flat " points="1228.14,250.81 1224.83,253.30 1224.83,243.10 1228.14,240.61"/>
+<polyline class="sil edge" points="1228.14,250.81 1224.83,253.30"/>
+<polygon class="face side flat " points="1224.83,253.30 1177.72,280.50 1177.72,270.30 1224.83,243.10"/>
+<polyline class="sil edge" points="1224.83,253.30 1177.72,280.50"/>
+<polygon class="face side flat " points="1152.59,282.41 1148.28,280.50 1148.28,270.30 1152.59,272.21"/>
+<polyline class="sil edge" points="1152.59,282.41 1148.28,280.50"/>
+<polygon class="face side flat " points="1177.72,280.50 1173.41,282.41 1173.41,272.21 1177.72,270.30"/>
+<polyline class="sil edge" points="1177.72,280.50 1173.41,282.41"/>
+<polygon class="face side flat " points="1157.61,283.61 1152.59,282.41 1152.59,272.21 1157.61,273.41"/>
+<polyline class="sil edge" points="1157.61,283.61 1152.59,282.41"/>
+<polygon class="face side flat " points="1173.41,282.41 1168.39,283.61 1168.39,273.41 1173.41,272.21"/>
+<polyline class="sil edge" points="1173.41,282.41 1168.39,283.61"/>
+<polygon class="face side flat " points="1163.00,284.02 1157.61,283.61 1157.61,273.41 1163.00,273.82"/>
+<polyline class="sil edge" points="1163.00,284.02 1157.61,283.61"/>
+<polygon class="face side flat " points="1168.39,283.61 1163.00,284.02 1163.00,273.82 1168.39,273.41"/>
+<polyline class="sil edge" points="1168.39,283.61 1163.00,284.02"/>
+<path class="face top " fill-rule="evenodd" d="M1224.83,226.10 L1228.14,228.59 L1230.22,231.49 L1230.93,234.60 L1230.22,237.71 L1228.14,240.61 L1224.83,243.10 L1177.72,270.30 L1173.41,272.21 L1168.39,273.41 L1163.00,273.82 L1157.61,273.41 L1152.59,272.21 L1148.28,270.30 L1048.17,212.50 L1044.86,210.01 L1042.78,207.11 L1042.07,204.00 L1042.78,200.89 L1044.86,197.99 L1048.17,195.50 L1061.12,188.02 L1047.87,183.43 L1045.77,181.99 L1044.14,180.35 L1043.02,178.58 L1042.45,176.72 L1042.45,174.84 L1043.02,172.98 L1044.14,171.21 L1045.77,169.57 L1047.87,168.13 L1050.37,166.92 L1053.20,165.97 L1056.27,165.33 L1059.49,165.00 L1062.75,165.00 L1065.97,165.33 L1069.04,165.97 L1071.87,166.92 L1074.37,168.13 L1082.32,175.78 L1095.28,168.30 L1099.59,166.39 L1104.61,165.19 L1110.00,164.78 L1115.39,165.19 L1120.41,166.39 L1124.72,168.30Z M1069.38,179.44 L1070.14,178.79 L1070.74,178.08 L1071.18,177.34 L1071.44,176.56 L1071.53,175.78 L1071.44,175.00 L1071.18,174.22 L1070.74,173.48 L1070.14,172.77 L1069.38,172.12 L1068.48,171.53 L1067.46,171.01 L1066.33,170.57 L1065.11,170.23 L1063.82,169.97 L1062.48,169.82 L1061.12,169.77 L1059.76,169.82 L1058.43,169.97 L1057.14,170.23 L1055.92,170.57 L1054.78,171.01 L1053.76,171.53 L1052.86,172.12 L1052.11,172.77 L1051.50,173.48 L1051.07,174.22 L1050.80,175.00 L1050.71,175.78 L1050.80,176.56 L1051.07,177.34 L1051.50,178.08 L1052.11,178.79 L1052.86,179.44 L1053.76,180.03 L1054.78,180.55 L1055.92,180.99 L1057.14,181.33 L1058.43,181.59 L1059.76,181.74 L1061.12,181.79 L1062.48,181.74 L1063.82,181.59 L1065.11,181.33 L1066.33,180.99 L1067.46,180.55 L1068.48,180.03Z"/>
+<path class="sil edge" d="M1224.83,226.10 L1228.14,228.59 L1230.22,231.49 L1230.93,234.60 L1230.22,237.71 L1228.14,240.61 L1224.83,243.10 L1177.72,270.30 L1173.41,272.21 L1168.39,273.41 L1163.00,273.82 L1157.61,273.41 L1152.59,272.21 L1148.28,270.30 L1048.17,212.50 L1044.86,210.01 L1042.78,207.11 L1042.07,204.00 L1042.78,200.89 L1044.86,197.99 L1048.17,195.50 L1061.12,188.02 L1047.87,183.43 L1045.77,181.99 L1044.14,180.35 L1043.02,178.58 L1042.45,176.72 L1042.45,174.84 L1043.02,172.98 L1044.14,171.21 L1045.77,169.57 L1047.87,168.13 L1050.37,166.92 L1053.20,165.97 L1056.27,165.33 L1059.49,165.00 L1062.75,165.00 L1065.97,165.33 L1069.04,165.97 L1071.87,166.92 L1074.37,168.13 L1082.32,175.78 L1095.28,168.30 L1099.59,166.39 L1104.61,165.19 L1110.00,164.78 L1115.39,165.19 L1120.41,166.39 L1124.72,168.30Z M1069.38,179.44 L1070.14,178.79 L1070.74,178.08 L1071.18,177.34 L1071.44,176.56 L1071.53,175.78 L1071.44,175.00 L1071.18,174.22 L1070.74,173.48 L1070.14,172.77 L1069.38,172.12 L1068.48,171.53 L1067.46,171.01 L1066.33,170.57 L1065.11,170.23 L1063.82,169.97 L1062.48,169.82 L1061.12,169.77 L1059.76,169.82 L1058.43,169.97 L1057.14,170.23 L1055.92,170.57 L1054.78,171.01 L1053.76,171.53 L1052.86,172.12 L1052.11,172.77 L1051.50,173.48 L1051.07,174.22 L1050.80,175.00 L1050.71,175.78 L1050.80,176.56 L1051.07,177.34 L1051.50,178.08 L1052.11,178.79 L1052.86,179.44 L1053.76,180.03 L1054.78,180.55 L1055.92,180.99 L1057.14,181.33 L1058.43,181.59 L1059.76,181.74 L1061.12,181.79 L1062.48,181.74 L1063.82,181.59 L1065.11,181.33 L1066.33,180.99 L1067.46,180.55 L1068.48,180.03Z"/>
+<polygon class="face side flat accent" points="1126.81,218.12 1123.48,201.28 1123.48,197.20 1126.81,214.04"/>
+<polyline class="sil hi" points="1126.81,218.12 1123.48,201.28"/>
+<polygon class="face side flat accent" points="1171.83,205.70 1159.66,221.12 1159.66,217.04 1171.83,201.62"/>
+<polyline class="sil hi" points="1171.83,205.70 1159.66,221.12"/>
+<polygon class="face side flat accent" points="1130.02,229.84 1101.26,226.46 1101.26,222.38 1130.02,225.76"/>
+<polyline class="sil hi" points="1130.02,229.84 1101.26,226.46"/>
+<polygon class="face side flat accent" points="1179.49,233.61 1150.33,231.70 1150.33,227.62 1179.49,229.53"/>
+<polyline class="sil hi" points="1179.49,233.61 1150.33,231.70"/>
+<polygon class="face side flat accent" points="1135.88,246.45 1130.02,229.84 1130.02,225.76 1135.88,242.37"/>
+<polyline class="sil hi" points="1135.88,246.45 1130.02,229.84"/>
+<polygon class="face side flat accent" points="1150.33,231.70 1135.88,246.45 1135.88,242.37 1150.33,227.62"/>
+<polyline class="sil hi" points="1150.33,231.70 1135.88,246.45"/>
+<path class="face top accent" fill-rule="evenodd" d="M1171.83,201.62 L1159.66,217.04 L1179.49,229.53 L1150.33,227.62 L1135.88,242.37 L1130.02,225.76 L1101.26,222.38 L1126.81,214.04 L1123.48,197.20 L1145.13,208.65Z"/>
+<path class="sil hi" d="M1171.83,201.62 L1159.66,217.04 L1179.49,229.53 L1150.33,227.62 L1135.88,242.37 L1130.02,225.76 L1101.26,222.38 L1126.81,214.04 L1123.48,197.20 L1145.13,208.65Z"/>
+</svg>

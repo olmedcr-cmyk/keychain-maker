@@ -1,0 +1,26 @@
+name: Algo no funciona
+description: Un fallo en la app, en un STL o en la documentación
+labels: [bug]
+body:
+  - type: textarea
+    id: que
+    attributes:
+      label: Qué pasa
+      description: Qué esperabas y qué ocurrió.
+    validations: { required: true }
+  - type: dropdown
+    id: donde
+    attributes:
+      label: Dónde
+      options: [La app en el navegador, Un STL en el laminador o impreso, Documentación]
+    validations: { required: true }
+  - type: textarea
+    id: ajustes
+    attributes:
+      label: Diseño y ajustes
+      description: Adjunta el SVG (o el texto y la fuente) y di qué base, estilo y arandela usaste. Si es un STL, adjúntalo.
+  - type: input
+    id: navegador
+    attributes:
+      label: Navegador y sistema
+      placeholder: Chrome 142 en macOS

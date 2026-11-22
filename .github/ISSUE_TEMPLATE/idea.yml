@@ -1,0 +1,10 @@
+name: Idea
+description: Una forma de base, un estilo, una opción o una mejora que falta
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: La idea
+      description: Qué te gustaría hacer y para qué llavero.
+    validations: { required: true }
